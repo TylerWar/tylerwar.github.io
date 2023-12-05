@@ -1,0 +1,42 @@
+.col-md-6 {
+    text-align: center;
+    margin-top: 1%;
+}
+.article-details {
+    text-align: left;
+
+}
+.article_text {
+    line-height: 2rem;
+    margin-bottom: 3%;
+}
+
+.News_Categories {
+    font-size: 2em;
+    text-align: left;
+}
+.btn {
+    width: 100%;
+}
+.card-body {
+    text-align: center;
+}
+.col-md-4 {
+    padding-top: 1%;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+}
+
+.container {
+    padding-bottom: 2%;
+}
+.Cardimg {
+    width: 100%;
+}
